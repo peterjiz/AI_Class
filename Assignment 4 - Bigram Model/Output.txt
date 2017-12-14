@@ -1,0 +1,997 @@
+5 correct classifications:
+Sentence 1:
+Enter a sentence: Mary is eating an apple.
+Mary is eating an apple.
+
+Current Word: Mary
+
+BIGRAM: MA
+French:  P(M, A) = 0.052682 ===> log probability of sequence so far: -2.943482 
+English:  P(M, A) = 0.069358 ===> log probability of sequence so far: -2.668471 
+Italian:  P(M, A) = 0.058880 ===> log probability of sequence so far: -2.832249 
+
+BIGRAM: AR
+French:  P(A, R) = 0.037966 ===> log probability of sequence so far: -6.214556 
+English:  P(A, R) = 0.046915 ===> log probability of sequence so far: -5.727885 
+Italian:  P(A, R) = 0.072965 ===> log probability of sequence so far: -5.450028 
+
+BIGRAM: RY
+French:  P(R, Y) = 0.002483 ===> log probability of sequence so far: -12.212665 
+English:  P(R, Y) = 0.035131 ===> log probability of sequence so far: -9.076565 
+Italian:  P(R, Y) = 0.000787 ===> log probability of sequence so far: -12.596801 
+
+Current Word: is
+
+BIGRAM: IS
+French:  P(I, S) = 0.103676 ===> log probability of sequence so far: -14.479145 
+English:  P(I, S) = 0.081215 ===> log probability of sequence so far: -11.587224 
+Italian:  P(I, S) = 0.077434 ===> log probability of sequence so far: -15.155135 
+
+Current Word: eating
+
+BIGRAM: EA
+French:  P(E, A) = 0.012069 ===> log probability of sequence so far: -18.896263 
+English:  P(E, A) = 0.049451 ===> log probability of sequence so far: -14.594006 
+Italian:  P(E, A) = 0.002242 ===> log probability of sequence so far: -21.255454 
+
+BIGRAM: AT
+French:  P(A, T) = 0.013610 ===> log probability of sequence so far: -23.193190 
+English:  P(A, T) = 0.085476 ===> log probability of sequence so far: -17.053531 
+Italian:  P(A, T) = 0.052995 ===> log probability of sequence so far: -24.193004 
+
+BIGRAM: TI
+French:  P(T, I) = 0.055977 ===> log probability of sequence so far: -26.076001 
+English:  P(T, I) = 0.040136 ===> log probability of sequence so far: -20.269011 
+Italian:  P(T, I) = 0.051669 ===> log probability of sequence so far: -27.155895 
+
+BIGRAM: IN
+French:  P(I, N) = 0.074265 ===> log probability of sequence so far: -28.676120 
+English:  P(I, N) = 0.141949 ===> log probability of sequence so far: -22.221297 
+Italian:  P(I, N) = 0.062684 ===> log probability of sequence so far: -29.925538 
+
+BIGRAM: NG
+French:  P(N, G) = 0.007200 ===> log probability of sequence so far: -33.609794 
+English:  P(N, G) = 0.095426 ===> log probability of sequence so far: -24.570703 
+Italian:  P(N, G) = 0.013492 ===> log probability of sequence so far: -34.231192 
+
+Current Word: an
+
+BIGRAM: AN
+French:  P(A, N) = 0.082378 ===> log probability of sequence so far: -36.106229 
+English:  P(A, N) = 0.124036 ===> log probability of sequence so far: -26.657886 
+Italian:  P(A, N) = 0.085253 ===> log probability of sequence so far: -36.693319 
+
+Current Word: apple.
+
+BIGRAM: AP
+French:  P(A, P) = 0.026504 ===> log probability of sequence so far: -39.736677 
+English:  P(A, P) = 0.012211 ===> log probability of sequence so far: -31.063321 
+Italian:  P(A, P) = 0.019201 ===> log probability of sequence so far: -40.646100 
+
+BIGRAM: PP
+French:  P(P, P) = 0.017172 ===> log probability of sequence so far: -43.801169 
+English:  P(P, P) = 0.005924 ===> log probability of sequence so far: -36.192036 
+Italian:  P(P, P) = 0.017206 ===> log probability of sequence so far: -44.708569 
+
+BIGRAM: PL
+French:  P(P, L) = 0.017172 ===> log probability of sequence so far: -47.865660 
+English:  P(P, L) = 0.027251 ===> log probability of sequence so far: -39.794694 
+Italian:  P(P, L) = 0.007085 ===> log probability of sequence so far: -49.658342 
+
+BIGRAM: LE
+French:  P(L, E) = 0.162088 ===> log probability of sequence so far: -49.685277 
+English:  P(L, E) = 0.087165 ===> log probability of sequence so far: -42.234649 
+Italian:  P(L, E) = 0.044737 ===> log probability of sequence so far: -52.765300 
+
+
+This sentence is most probably in: English
+
+
+
+Sentence 2:
+Enter a sentence: L'exercice m'enerves
+L'exercice m'enerves
+
+Current Word: L'exercice
+
+BIGRAM: LE
+French:  P(L, E) = 0.162088 ===> log probability of sequence so far: -1.819616 
+English:  P(L, E) = 0.087165 ===> log probability of sequence so far: -2.439955 
+Italian:  P(L, E) = 0.044737 ===> log probability of sequence so far: -3.106958 
+
+BIGRAM: EX
+French:  P(E, X) = 0.012069 ===> log probability of sequence so far: -6.236734 
+English:  P(E, X) = 0.012821 ===> log probability of sequence so far: -6.796664 
+Italian:  P(E, X) = 0.000747 ===> log probability of sequence so far: -10.305889 
+
+BIGRAM: XE
+French:  P(X, E) = 0.001437 ===> log probability of sequence so far: -12.782084 
+English:  P(X, E) = 0.001437 ===> log probability of sequence so far: -13.342014 
+Italian:  P(X, E) = 0.001479 ===> log probability of sequence so far: -16.822082 
+
+BIGRAM: ER
+French:  P(E, R) = 0.091379 ===> log probability of sequence so far: -15.174820 
+English:  P(E, R) = 0.127595 ===> log probability of sequence so far: -15.400911 
+Italian:  P(E, R) = 0.132287 ===> log probability of sequence so far: -18.844864 
+
+BIGRAM: RC
+French:  P(R, C) = 0.004139 ===> log probability of sequence so far: -20.662104 
+English:  P(R, C) = 0.002451 ===> log probability of sequence so far: -21.412178 
+Italian:  P(R, C) = 0.010236 ===> log probability of sequence so far: -23.426687 
+
+BIGRAM: CI
+French:  P(C, I) = 0.009454 ===> log probability of sequence so far: -25.323444 
+English:  P(C, I) = 0.005470 ===> log probability of sequence so far: -26.620571 
+Italian:  P(C, I) = 0.036932 ===> log probability of sequence so far: -26.725368 
+
+BIGRAM: IC
+French:  P(I, C) = 0.008088 ===> log probability of sequence so far: -30.140789 
+English:  P(I, C) = 0.038842 ===> log probability of sequence so far: -29.868829 
+Italian:  P(I, C) = 0.040560 ===> log probability of sequence so far: -29.930330 
+
+BIGRAM: CE
+French:  P(C, E) = 0.099790 ===> log probability of sequence so far: -32.445477 
+English:  P(C, E) = 0.057987 ===> log probability of sequence so far: -32.716367 
+Italian:  P(C, E) = 0.027462 ===> log probability of sequence so far: -33.525277 
+
+Current Word: m'enerves
+
+BIGRAM: ME
+French:  P(M, E) = 0.106322 ===> log probability of sequence so far: -34.686762 
+English:  P(M, E) = 0.081781 ===> log probability of sequence so far: -35.220083 
+Italian:  P(M, E) = 0.076255 ===> log probability of sequence so far: -36.098952 
+
+BIGRAM: EN
+French:  P(E, N) = 0.091379 ===> log probability of sequence so far: -37.079498 
+English:  P(E, N) = 0.077534 ===> log probability of sequence so far: -37.777128 
+Italian:  P(E, N) = 0.078475 ===> log probability of sequence so far: -38.643923 
+
+BIGRAM: NE
+French:  P(N, E) = 0.098400 ===> log probability of sequence so far: -39.398212 
+English:  P(N, E) = 0.062303 ===> log probability of sequence so far: -40.552876 
+Italian:  P(N, E) = 0.042063 ===> log probability of sequence so far: -41.812498 
+
+BIGRAM: ER
+French:  P(E, R) = 0.091379 ===> log probability of sequence so far: -41.790948 
+English:  P(E, R) = 0.127595 ===> log probability of sequence so far: -42.611773 
+Italian:  P(E, R) = 0.132287 ===> log probability of sequence so far: -43.835279 
+
+BIGRAM: RV
+French:  P(R, V) = 0.004139 ===> log probability of sequence so far: -47.278232 
+English:  P(R, V) = 0.000817 ===> log probability of sequence so far: -49.721652 
+Italian:  P(R, V) = 0.003937 ===> log probability of sequence so far: -49.372614 
+
+BIGRAM: VE
+French:  P(V, E) = 0.064010 ===> log probability of sequence so far: -50.026953 
+English:  P(V, E) = 0.145522 ===> log probability of sequence so far: -51.649078 
+Italian:  P(V, E) = 0.071591 ===> log probability of sequence so far: -52.009401 
+
+BIGRAM: ES
+French:  P(E, S) = 0.147701 ===> log probability of sequence so far: -51.939517 
+English:  P(E, S) = 0.039683 ===> log probability of sequence so far: -54.875922 
+Italian:  P(E, S) = 0.050075 ===> log probability of sequence so far: -55.003639 
+
+
+This sentence is most probably in: French
+
+
+
+
+Sentence 3:
+Enter a sentence: Where are Jim and Julia?
+Where are Jim and Julia?
+
+Current Word: Where
+
+BIGRAM: WH
+French:  P(W, H) = 0.001471 ===> log probability of sequence so far: -6.522093 
+English:  P(W, H) = 0.057652 ===> log probability of sequence so far: -2.853330 
+Italian:  P(W, H) = 0.001479 ===> log probability of sequence so far: -6.516193 
+
+BIGRAM: HE
+French:  P(H, E) = 0.024934 ===> log probability of sequence so far: -10.213600 
+English:  P(H, E) = 0.215373 ===> log probability of sequence so far: -4.388715 
+Italian:  P(H, E) = 0.087563 ===> log probability of sequence so far: -8.951585 
+
+BIGRAM: ER
+French:  P(E, R) = 0.091379 ===> log probability of sequence so far: -12.606337 
+English:  P(E, R) = 0.127595 ===> log probability of sequence so far: -6.447612 
+Italian:  P(E, R) = 0.132287 ===> log probability of sequence so far: -10.974366 
+
+BIGRAM: RE
+French:  P(R, E) = 0.153146 ===> log probability of sequence so far: -14.482702 
+English:  P(R, E) = 0.129902 ===> log probability of sequence so far: -8.488587 
+Italian:  P(R, E) = 0.092126 ===> log probability of sequence so far: -13.358964 
+
+Current Word: are
+
+BIGRAM: AR
+French:  P(A, R) = 0.037966 ===> log probability of sequence so far: -17.753776 
+English:  P(A, R) = 0.046915 ===> log probability of sequence so far: -11.548001 
+Italian:  P(A, R) = 0.072965 ===> log probability of sequence so far: -15.976744 
+
+BIGRAM: RE
+French:  P(R, E) = 0.153146 ===> log probability of sequence so far: -19.630142 
+English:  P(R, E) = 0.129902 ===> log probability of sequence so far: -13.588977 
+Italian:  P(R, E) = 0.092126 ===> log probability of sequence so far: -18.361343 
+
+Current Word: Jim
+
+BIGRAM: JI
+French:  P(J, I) = 0.001196 ===> log probability of sequence so far: -26.358771 
+English:  P(J, I) = 0.001458 ===> log probability of sequence so far: -20.119854 
+Italian:  P(J, I) = 0.001475 ===> log probability of sequence so far: -24.880490 
+
+BIGRAM: IM
+French:  P(I, M) = 0.011029 ===> log probability of sequence so far: -30.865960 
+English:  P(I, M) = 0.024718 ===> log probability of sequence so far: -23.820097 
+Italian:  P(I, M) = 0.028761 ===> log probability of sequence so far: -28.429223 
+
+Current Word: and
+
+BIGRAM: AN
+French:  P(A, N) = 0.082378 ===> log probability of sequence so far: -33.362395 
+English:  P(A, N) = 0.124036 ===> log probability of sequence so far: -25.907281 
+Italian:  P(A, N) = 0.085253 ===> log probability of sequence so far: -30.891349 
+
+BIGRAM: ND
+French:  P(N, D) = 0.058400 ===> log probability of sequence so far: -36.202834 
+English:  P(N, D) = 0.089117 ===> log probability of sequence so far: -28.325089 
+Italian:  P(N, D) = 0.037302 ===> log probability of sequence so far: -34.180069 
+
+Current Word: Julia?
+
+BIGRAM: JU
+French:  P(J, U) = 0.008373 ===> log probability of sequence so far: -40.985552 
+English:  P(J, U) = 0.013120 ===> log probability of sequence so far: -32.658742 
+Italian:  P(J, U) = 0.004425 ===> log probability of sequence so far: -39.600604 
+
+BIGRAM: UL
+French:  P(U, L) = 0.016720 ===> log probability of sequence so far: -45.076717 
+English:  P(U, L) = 0.032101 ===> log probability of sequence so far: -36.097605 
+Italian:  P(U, L) = 0.020751 ===> log probability of sequence so far: -43.475765 
+
+BIGRAM: LI
+French:  P(L, I) = 0.026557 ===> log probability of sequence so far: -48.705188 
+English:  P(L, I) = 0.046935 ===> log probability of sequence so far: -39.156600 
+Italian:  P(L, I) = 0.057018 ===> log probability of sequence so far: -46.340161 
+
+BIGRAM: IA
+French:  P(I, A) = 0.000735 ===> log probability of sequence so far: -55.920428 
+English:  P(I, A) = 0.000706 ===> log probability of sequence so far: -46.412191 
+Italian:  P(I, A) = 0.050885 ===> log probability of sequence so far: -49.318349 
+
+
+This sentence is most probably in: English
+
+
+
+Sentence 4:
+Enter a sentence: Ils reviendront au final, peut-etre.
+Ils reviendront au final, peut-etre.
+
+Current Word: Ils
+
+BIGRAM: IL
+French:  P(I, L) = 0.062500 ===> log probability of sequence so far: -2.772589 
+English:  P(I, L) = 0.028955 ===> log probability of sequence so far: -3.542019 
+Italian:  P(I, L) = 0.046460 ===> log probability of sequence so far: -3.069160 
+
+BIGRAM: LS
+French:  P(L, S) = 0.006410 ===> log probability of sequence so far: -7.822445 
+English:  P(L, S) = 0.000958 ===> log probability of sequence so far: -10.492834 
+Italian:  P(L, S) = 0.007895 ===> log probability of sequence so far: -7.910719 
+
+Current Word: reviendront
+
+BIGRAM: RE
+French:  P(R, E) = 0.153146 ===> log probability of sequence so far: -9.698810 
+English:  P(R, E) = 0.129902 ===> log probability of sequence so far: -12.533809 
+Italian:  P(R, E) = 0.092126 ===> log probability of sequence so far: -10.295317 
+
+BIGRAM: EV
+French:  P(E, V) = 0.002874 ===> log probability of sequence so far: -15.551013 
+English:  P(E, V) = 0.020147 ===> log probability of sequence so far: -16.438533 
+Italian:  P(E, V) = 0.020179 ===> log probability of sequence so far: -14.198411 
+
+BIGRAM: VI
+French:  P(V, I) = 0.025362 ===> log probability of sequence so far: -19.225503 
+English:  P(V, I) = 0.003731 ===> log probability of sequence so far: -22.029520 
+Italian:  P(V, I) = 0.035227 ===> log probability of sequence so far: -17.544346 
+
+BIGRAM: IE
+French:  P(I, E) = 0.069853 ===> log probability of sequence so far: -21.886867 
+English:  P(I, E) = 0.012006 ===> log probability of sequence so far: -26.451898 
+Italian:  P(I, E) = 0.028761 ===> log probability of sequence so far: -21.093079 
+
+BIGRAM: EN
+French:  P(E, N) = 0.091379 ===> log probability of sequence so far: -24.279603 
+English:  P(E, N) = 0.077534 ===> log probability of sequence so far: -29.008942 
+Italian:  P(E, N) = 0.078475 ===> log probability of sequence so far: -23.638050 
+
+BIGRAM: ND
+French:  P(N, D) = 0.058400 ===> log probability of sequence so far: -27.120042 
+English:  P(N, D) = 0.089117 ===> log probability of sequence so far: -31.426750 
+Italian:  P(N, D) = 0.037302 ===> log probability of sequence so far: -26.926769 
+
+BIGRAM: DR
+French:  P(D, R) = 0.014019 ===> log probability of sequence so far: -31.387406 
+English:  P(D, R) = 0.074944 ===> log probability of sequence so far: -34.017764 
+Italian:  P(D, R) = 0.000947 ===> log probability of sequence so far: -33.889013 
+
+BIGRAM: RO
+French:  P(R, O) = 0.025662 ===> log probability of sequence so far: -35.050140 
+English:  P(R, O) = 0.051471 ===> log probability of sequence so far: -36.984508 
+Italian:  P(R, O) = 0.049606 ===> log probability of sequence so far: -36.892650 
+
+BIGRAM: ON
+French:  P(O, N) = 0.161466 ===> log probability of sequence so far: -36.873598 
+English:  P(O, N) = 0.086326 ===> log probability of sequence so far: -39.434133 
+Italian:  P(O, N) = 0.088138 ===> log probability of sequence so far: -39.321497 
+
+BIGRAM: NT
+French:  P(N, T) = 0.098400 ===> log probability of sequence so far: -39.192312 
+English:  P(N, T) = 0.048107 ===> log probability of sequence so far: -42.468455 
+Italian:  P(N, T) = 0.094444 ===> log probability of sequence so far: -41.681241 
+
+Current Word: au
+
+BIGRAM: AU
+French:  P(A, U) = 0.043696 ===> log probability of sequence so far: -42.322805 
+English:  P(A, U) = 0.005784 ===> log probability of sequence so far: -47.621104 
+Italian:  P(A, U) = 0.005376 ===> log probability of sequence so far: -46.906987 
+
+Current Word: final,
+
+BIGRAM: FI
+French:  P(F, I) = 0.026515 ===> log probability of sequence so far: -45.952844 
+English:  P(F, I) = 0.016332 ===> log probability of sequence so far: -51.735754 
+Italian:  P(F, I) = 0.029412 ===> log probability of sequence so far: -50.433348 
+
+BIGRAM: IN
+French:  P(I, N) = 0.074265 ===> log probability of sequence so far: -48.552963 
+English:  P(I, N) = 0.141949 ===> log probability of sequence so far: -53.688041 
+Italian:  P(I, N) = 0.062684 ===> log probability of sequence so far: -53.202991 
+
+BIGRAM: NA
+French:  P(N, A) = 0.023200 ===> log probability of sequence so far: -52.316566 
+English:  P(N, A) = 0.008675 ===> log probability of sequence so far: -58.435342 
+Italian:  P(N, A) = 0.083333 ===> log probability of sequence so far: -55.687898 
+
+BIGRAM: AL
+French:  P(A, L) = 0.019341 ===> log probability of sequence so far: -56.262096 
+English:  P(A, L) = 0.041774 ===> log probability of sequence so far: -61.610828 
+Italian:  P(A, L) = 0.054531 ===> log probability of sequence so far: -58.596875 
+
+Current Word: peut-etre.
+
+BIGRAM: PE
+French:  P(P, E) = 0.116162 ===> log probability of sequence so far: -58.414868 
+English:  P(P, E) = 0.031991 ===> log probability of sequence so far: -65.053144 
+Italian:  P(P, E) = 0.104251 ===> log probability of sequence so far: -60.857828 
+
+BIGRAM: EU
+French:  P(E, U) = 0.052299 ===> log probability of sequence so far: -61.365649 
+English:  P(E, U) = 0.000611 ===> log probability of sequence so far: -72.454375 
+Italian:  P(E, U) = 0.000747 ===> log probability of sequence so far: -68.056760 
+
+BIGRAM: UT
+French:  P(U, T) = 0.066083 ===> log probability of sequence so far: -64.082496 
+English:  P(U, T) = 0.043774 ===> log probability of sequence so far: -75.583083 
+Italian:  P(U, T) = 0.032609 ===> log probability of sequence so far: -71.479936 
+
+BIGRAM: ET
+French:  P(E, T) = 0.076437 ===> log probability of sequence so far: -66.653787 
+English:  P(E, T) = 0.020147 ===> log probability of sequence so far: -79.487807 
+Italian:  P(E, T) = 0.024664 ===> log probability of sequence so far: -75.182360 
+
+BIGRAM: TR
+French:  P(T, R) = 0.046490 ===> log probability of sequence so far: -69.722315 
+English:  P(T, R) = 0.026531 ===> log probability of sequence so far: -83.117263 
+Italian:  P(T, R) = 0.038951 ===> log probability of sequence so far: -78.427818 
+
+BIGRAM: RE
+French:  P(R, E) = 0.153146 ===> log probability of sequence so far: -71.598680 
+English:  P(R, E) = 0.129902 ===> log probability of sequence so far: -85.158238 
+Italian:  P(R, E) = 0.092126 ===> log probability of sequence so far: -80.812416 
+
+
+This sentence is most probably in: French
+
+
+
+Sentence 5:
+Enter a sentence: Strong AI hasn't been developed until now.
+Strong AI hasn't been developed until now.
+
+Current Word: Strong
+
+BIGRAM: ST
+French:  P(S, T) = 0.056424 ===> log probability of sequence so far: -2.874868 
+English:  P(S, T) = 0.087230 ===> log probability of sequence so far: -2.439204 
+Italian:  P(S, T) = 0.063847 ===> log probability of sequence so far: -2.751259 
+
+BIGRAM: TR
+French:  P(T, R) = 0.046490 ===> log probability of sequence so far: -5.943395 
+English:  P(T, R) = 0.026531 ===> log probability of sequence so far: -6.068661 
+Italian:  P(T, R) = 0.038951 ===> log probability of sequence so far: -5.996717 
+
+BIGRAM: RO
+French:  P(R, O) = 0.025662 ===> log probability of sequence so far: -9.606129 
+English:  P(R, O) = 0.051471 ===> log probability of sequence so far: -9.035405 
+Italian:  P(R, O) = 0.049606 ===> log probability of sequence so far: -9.000355 
+
+BIGRAM: ON
+French:  P(O, N) = 0.161466 ===> log probability of sequence so far: -11.429587 
+English:  P(O, N) = 0.086326 ===> log probability of sequence so far: -11.485030 
+Italian:  P(O, N) = 0.088138 ===> log probability of sequence so far: -11.429202 
+
+BIGRAM: NG
+French:  P(N, G) = 0.007200 ===> log probability of sequence so far: -16.363261 
+English:  P(N, G) = 0.095426 ===> log probability of sequence so far: -13.834436 
+Italian:  P(N, G) = 0.013492 ===> log probability of sequence so far: -15.734855 
+
+Current Word: AI
+
+BIGRAM: AI
+French:  P(A, I) = 0.165473 ===> log probability of sequence so far: -18.162210 
+English:  P(A, I) = 0.028920 ===> log probability of sequence so far: -17.377647 
+Italian:  P(A, I) = 0.034562 ===> log probability of sequence so far: -19.099850 
+
+Current Word: hasn't
+
+BIGRAM: HA
+French:  P(H, A) = 0.043307 ===> log probability of sequence so far: -21.301649 
+English:  P(H, A) = 0.114916 ===> log probability of sequence so far: -19.541198 
+Italian:  P(H, A) = 0.008883 ===> log probability of sequence so far: -23.823438 
+
+BIGRAM: AS
+French:  P(A, S) = 0.023639 ===> log probability of sequence so far: -25.046508 
+English:  P(A, S) = 0.066195 ===> log probability of sequence so far: -22.256343 
+Italian:  P(A, S) = 0.025346 ===> log probability of sequence so far: -27.498587 
+
+BIGRAM: SN
+French:  P(S, N) = 0.000868 ===> log probability of sequence so far: -32.095762 
+English:  P(S, N) = 0.006295 ===> log probability of sequence so far: -27.324348 
+Italian:  P(S, N) = 0.000829 ===> log probability of sequence so far: -34.593651 
+
+BIGRAM: NT
+French:  P(N, T) = 0.098400 ===> log probability of sequence so far: -34.414477 
+English:  P(N, T) = 0.048107 ===> log probability of sequence so far: -30.358671 
+Italian:  P(N, T) = 0.094444 ===> log probability of sequence so far: -36.953395 
+
+Current Word: been
+
+BIGRAM: BE
+French:  P(B, E) = 0.026923 ===> log probability of sequence so far: -38.029248 
+English:  P(B, E) = 0.063702 ===> log probability of sequence so far: -33.112211 
+Italian:  P(B, E) = 0.008951 ===> log probability of sequence so far: -41.669339 
+
+BIGRAM: EE
+French:  P(E, E) = 0.006322 ===> log probability of sequence so far: -43.092993 
+English:  P(E, E) = 0.051893 ===> log probability of sequence so far: -36.070791 
+Italian:  P(E, E) = 0.000747 ===> log probability of sequence so far: -48.868271 
+
+BIGRAM: EN
+French:  P(E, N) = 0.091379 ===> log probability of sequence so far: -45.485730 
+English:  P(E, N) = 0.077534 ===> log probability of sequence so far: -38.627835 
+Italian:  P(E, N) = 0.078475 ===> log probability of sequence so far: -51.413241 
+
+Current Word: developed
+
+BIGRAM: DE
+French:  P(D, E) = 0.234579 ===> log probability of sequence so far: -46.935691 
+English:  P(D, E) = 0.081655 ===> log probability of sequence so far: -41.133082 
+Italian:  P(D, E) = 0.063447 ===> log probability of sequence so far: -54.170792 
+
+BIGRAM: EV
+French:  P(E, V) = 0.002874 ===> log probability of sequence so far: -52.787893 
+English:  P(E, V) = 0.020147 ===> log probability of sequence so far: -45.037805 
+Italian:  P(E, V) = 0.020179 ===> log probability of sequence so far: -58.073887 
+
+BIGRAM: VE
+French:  P(V, E) = 0.064010 ===> log probability of sequence so far: -55.536614 
+English:  P(V, E) = 0.145522 ===> log probability of sequence so far: -46.965231 
+Italian:  P(V, E) = 0.071591 ===> log probability of sequence so far: -60.710674 
+
+BIGRAM: EL
+French:  P(E, L) = 0.024713 ===> log probability of sequence so far: -59.237055 
+English:  P(E, L) = 0.018926 ===> log probability of sequence so far: -50.932475 
+Italian:  P(E, L) = 0.048580 ===> log probability of sequence so far: -63.735218 
+
+BIGRAM: LO
+French:  P(L, O) = 0.026557 ===> log probability of sequence so far: -62.865525 
+English:  P(L, O) = 0.037356 ===> log probability of sequence so far: -54.219728 
+Italian:  P(L, O) = 0.055263 ===> log probability of sequence so far: -66.630867 
+
+BIGRAM: OP
+French:  P(O, P) = 0.005460 ===> log probability of sequence so far: -68.075791 
+English:  P(O, P) = 0.004834 ===> log probability of sequence so far: -59.551756 
+Italian:  P(O, P) = 0.017298 ===> log probability of sequence so far: -70.688020 
+
+BIGRAM: PE
+French:  P(P, E) = 0.116162 ===> log probability of sequence so far: -70.228564 
+English:  P(P, E) = 0.031991 ===> log probability of sequence so far: -62.994072 
+Italian:  P(P, E) = 0.104251 ===> log probability of sequence so far: -72.948974 
+
+BIGRAM: ED
+French:  P(E, D) = 0.007471 ===> log probability of sequence so far: -75.125255 
+English:  P(E, D) = 0.068987 ===> log probability of sequence so far: -65.667915 
+Italian:  P(E, D) = 0.014200 ===> log probability of sequence so far: -77.203466 
+
+Current Word: until
+
+BIGRAM: UN
+French:  P(U, N) = 0.083599 ===> log probability of sequence so far: -77.606982 
+English:  P(U, N) = 0.032101 ===> log probability of sequence so far: -69.106778 
+Italian:  P(U, N) = 0.115613 ===> log probability of sequence so far: -79.360976 
+
+BIGRAM: NT
+French:  P(N, T) = 0.098400 ===> log probability of sequence so far: -79.925697 
+English:  P(N, T) = 0.048107 ===> log probability of sequence so far: -72.141101 
+Italian:  P(N, T) = 0.094444 ===> log probability of sequence so far: -81.720720 
+
+BIGRAM: TI
+French:  P(T, I) = 0.055977 ===> log probability of sequence so far: -82.808507 
+English:  P(T, I) = 0.040136 ===> log probability of sequence so far: -75.356581 
+Italian:  P(T, I) = 0.051669 ===> log probability of sequence so far: -84.683611 
+
+BIGRAM: IL
+French:  P(I, L) = 0.062500 ===> log probability of sequence so far: -85.581096 
+English:  P(I, L) = 0.028955 ===> log probability of sequence so far: -78.898600 
+Italian:  P(I, L) = 0.046460 ===> log probability of sequence so far: -87.752771 
+
+Current Word: now.
+
+BIGRAM: NO
+French:  P(N, O) = 0.010400 ===> log probability of sequence so far: -90.147045 
+English:  P(N, O) = 0.044953 ===> log probability of sequence so far: -82.000745 
+Italian:  P(N, O) = 0.108730 ===> log probability of sequence so far: -89.971657 
+
+BIGRAM: OW
+French:  P(O, W) = 0.000780 ===> log probability of sequence so far: -97.303222 
+English:  P(O, W) = 0.039365 ===> log probability of sequence so far: -85.235632 
+Italian:  P(O, W) = 0.000824 ===> log probability of sequence so far: -97.073333 
+
+
+This sentence is most probably in: English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5 Incorrect sentences:
+
+Sentence 1:
+Enter a sentence: Kevin est malade.
+Kevin est malade.
+
+Current Word: Kevin
+
+BIGRAM: KE
+French:  P(K, E) = 0.001479 ===> log probability of sequence so far: -6.516193 
+English:  P(K, E) = 0.048077 ===> log probability of sequence so far: -3.034953 
+Italian:  P(K, E) = 0.001479 ===> log probability of sequence so far: -6.516193 
+
+BIGRAM: EV
+French:  P(E, V) = 0.002874 ===> log probability of sequence so far: -12.368396 
+English:  P(E, V) = 0.020147 ===> log probability of sequence so far: -6.939677 
+Italian:  P(E, V) = 0.020179 ===> log probability of sequence so far: -10.419287 
+
+BIGRAM: VI
+French:  P(V, I) = 0.025362 ===> log probability of sequence so far: -16.042886 
+English:  P(V, I) = 0.003731 ===> log probability of sequence so far: -12.530664 
+Italian:  P(V, I) = 0.035227 ===> log probability of sequence so far: -13.765222 
+
+BIGRAM: IN
+French:  P(I, N) = 0.074265 ===> log probability of sequence so far: -18.643006 
+English:  P(I, N) = 0.141949 ===> log probability of sequence so far: -14.482950 
+Italian:  P(I, N) = 0.062684 ===> log probability of sequence so far: -16.534865 
+
+Current Word: est
+
+BIGRAM: ES
+French:  P(E, S) = 0.147701 ===> log probability of sequence so far: -20.555570 
+English:  P(E, S) = 0.039683 ===> log probability of sequence so far: -17.709794 
+Italian:  P(E, S) = 0.050075 ===> log probability of sequence so far: -19.529104 
+
+BIGRAM: ST
+French:  P(S, T) = 0.056424 ===> log probability of sequence so far: -23.430438 
+English:  P(S, T) = 0.087230 ===> log probability of sequence so far: -20.148999 
+Italian:  P(S, T) = 0.063847 ===> log probability of sequence so far: -22.280363 
+
+Current Word: malade.
+
+BIGRAM: MA
+French:  P(M, A) = 0.052682 ===> log probability of sequence so far: -26.373919 
+English:  P(M, A) = 0.069358 ===> log probability of sequence so far: -22.817470 
+Italian:  P(M, A) = 0.058880 ===> log probability of sequence so far: -25.112612 
+
+BIGRAM: AL
+French:  P(A, L) = 0.019341 ===> log probability of sequence so far: -30.319449 
+English:  P(A, L) = 0.041774 ===> log probability of sequence so far: -25.992956 
+Italian:  P(A, L) = 0.054531 ===> log probability of sequence so far: -28.021588 
+
+BIGRAM: LA
+French:  P(L, A) = 0.083333 ===> log probability of sequence so far: -32.804355 
+English:  P(L, A) = 0.022031 ===> log probability of sequence so far: -29.808277 
+Italian:  P(L, A) = 0.095614 ===> log probability of sequence so far: -30.369024 
+
+BIGRAM: AD
+French:  P(A, D) = 0.002149 ===> log probability of sequence so far: -38.947109 
+English:  P(A, D) = 0.026350 ===> log probability of sequence so far: -33.444578 
+Italian:  P(A, D) = 0.000768 ===> log probability of sequence so far: -37.540681 
+
+BIGRAM: DE
+French:  P(D, E) = 0.234579 ===> log probability of sequence so far: -40.397070 
+English:  P(D, E) = 0.081655 ===> log probability of sequence so far: -35.949825 
+Italian:  P(D, E) = 0.063447 ===> log probability of sequence so far: -40.298232 
+
+
+This sentence is most probably in: English
+
+
+
+Sentence2:
+Enter a sentence: Kevin a faim.
+Kevin a faim.
+
+Current Word: Kevin
+
+BIGRAM: KE
+French:  P(K, E) = 0.001479 ===> log probability of sequence so far: -6.516193 
+English:  P(K, E) = 0.048077 ===> log probability of sequence so far: -3.034953 
+Italian:  P(K, E) = 0.001479 ===> log probability of sequence so far: -6.516193 
+
+BIGRAM: EV
+French:  P(E, V) = 0.002874 ===> log probability of sequence so far: -12.368396 
+English:  P(E, V) = 0.020147 ===> log probability of sequence so far: -6.939677 
+Italian:  P(E, V) = 0.020179 ===> log probability of sequence so far: -10.419287 
+
+BIGRAM: VI
+French:  P(V, I) = 0.025362 ===> log probability of sequence so far: -16.042886 
+English:  P(V, I) = 0.003731 ===> log probability of sequence so far: -12.530664 
+Italian:  P(V, I) = 0.035227 ===> log probability of sequence so far: -13.765222 
+
+BIGRAM: IN
+French:  P(I, N) = 0.074265 ===> log probability of sequence so far: -18.643006 
+English:  P(I, N) = 0.141949 ===> log probability of sequence so far: -14.482950 
+Italian:  P(I, N) = 0.062684 ===> log probability of sequence so far: -16.534865 
+
+Current Word: a
+
+Current Word: faim.
+
+BIGRAM: FA
+French:  P(F, A) = 0.059343 ===> log probability of sequence so far: -21.467420 
+English:  P(F, A) = 0.016332 ===> log probability of sequence so far: -18.597600 
+Italian:  P(F, A) = 0.039642 ===> log probability of sequence so far: -19.762733 
+
+BIGRAM: AI
+French:  P(A, I) = 0.165473 ===> log probability of sequence so far: -23.266368 
+English:  P(A, I) = 0.028920 ===> log probability of sequence so far: -22.140811 
+Italian:  P(A, I) = 0.034562 ===> log probability of sequence so far: -23.127727 
+
+BIGRAM: IM
+French:  P(I, M) = 0.011029 ===> log probability of sequence so far: -27.773558 
+English:  P(I, M) = 0.024718 ===> log probability of sequence so far: -25.841054 
+Italian:  P(I, M) = 0.028761 ===> log probability of sequence so far: -26.676460 
+
+
+This sentence is most probably in: English
+
+
+Sentence 3:
+Enter a sentence: Mamma Mia here we go again
+Mamma Mia here we go again
+
+Current Word: Mamma
+
+BIGRAM: MA
+French:  P(M, A) = 0.052682 ===> log probability of sequence so far: -2.943482 
+English:  P(M, A) = 0.069358 ===> log probability of sequence so far: -2.668471 
+Italian:  P(M, A) = 0.058880 ===> log probability of sequence so far: -2.832249 
+
+BIGRAM: AM
+French:  P(A, M) = 0.009312 ===> log probability of sequence so far: -7.619899 
+English:  P(A, M) = 0.009640 ===> log probability of sequence so far: -7.310295 
+Italian:  P(A, M) = 0.034562 ===> log probability of sequence so far: -6.197243 
+
+BIGRAM: MM
+French:  P(M, M) = 0.033525 ===> log probability of sequence so far: -11.015365 
+English:  P(M, M) = 0.005176 ===> log probability of sequence so far: -12.574021 
+Italian:  P(M, M) = 0.008687 ===> log probability of sequence so far: -10.943141 
+
+BIGRAM: MA
+French:  P(M, A) = 0.052682 ===> log probability of sequence so far: -13.958847 
+English:  P(M, A) = 0.069358 ===> log probability of sequence so far: -15.242492 
+Italian:  P(M, A) = 0.058880 ===> log probability of sequence so far: -13.775389 
+
+Current Word: Mia
+
+BIGRAM: MI
+French:  P(M, I) = 0.039272 ===> log probability of sequence so far: -17.196090 
+English:  P(M, I) = 0.023810 ===> log probability of sequence so far: -18.980161 
+Italian:  P(M, I) = 0.124517 ===> log probability of sequence so far: -15.858699 
+
+BIGRAM: IA
+French:  P(I, A) = 0.000735 ===> log probability of sequence so far: -24.411329 
+English:  P(I, A) = 0.000706 ===> log probability of sequence so far: -26.235753 
+Italian:  P(I, A) = 0.050885 ===> log probability of sequence so far: -18.836887 
+
+Current Word: here
+
+BIGRAM: HE
+French:  P(H, E) = 0.024934 ===> log probability of sequence so far: -28.102837 
+English:  P(H, E) = 0.215373 ===> log probability of sequence so far: -27.771137 
+Italian:  P(H, E) = 0.087563 ===> log probability of sequence so far: -21.272279 
+
+BIGRAM: ER
+French:  P(E, R) = 0.091379 ===> log probability of sequence so far: -30.495573 
+English:  P(E, R) = 0.127595 ===> log probability of sequence so far: -29.830034 
+Italian:  P(E, R) = 0.132287 ===> log probability of sequence so far: -23.295060 
+
+BIGRAM: RE
+French:  P(R, E) = 0.153146 ===> log probability of sequence so far: -32.371939 
+English:  P(R, E) = 0.129902 ===> log probability of sequence so far: -31.871009 
+Italian:  P(R, E) = 0.092126 ===> log probability of sequence so far: -25.679659 
+
+Current Word: we
+
+BIGRAM: WE
+French:  P(W, E) = 0.007353 ===> log probability of sequence so far: -37.284594 
+English:  P(W, E) = 0.028302 ===> log probability of sequence so far: -35.435836 
+Italian:  P(W, E) = 0.001479 ===> log probability of sequence so far: -32.195852 
+
+Current Word: go
+
+BIGRAM: GO
+French:  P(G, O) = 0.003769 ===> log probability of sequence so far: -42.865581 
+English:  P(G, O) = 0.008333 ===> log probability of sequence so far: -40.223328 
+Italian:  P(G, O) = 0.014806 ===> log probability of sequence so far: -36.408549 
+
+Current Word: again
+
+BIGRAM: AG
+French:  P(A, G) = 0.017908 ===> log probability of sequence so far: -46.888071 
+English:  P(A, G) = 0.008355 ===> log probability of sequence so far: -45.008252 
+Italian:  P(A, G) = 0.006912 ===> log probability of sequence so far: -41.382981 
+
+BIGRAM: GA
+French:  P(G, A) = 0.018844 ===> log probability of sequence so far: -50.859620 
+English:  P(G, A) = 0.005952 ===> log probability of sequence so far: -50.132216 
+Italian:  P(G, A) = 0.007973 ===> log probability of sequence so far: -46.214718 
+
+BIGRAM: AI
+French:  P(A, I) = 0.165473 ===> log probability of sequence so far: -52.658569 
+English:  P(A, I) = 0.028920 ===> log probability of sequence so far: -53.675427 
+Italian:  P(A, I) = 0.034562 ===> log probability of sequence so far: -49.579712 
+
+BIGRAM: IN
+French:  P(I, N) = 0.074265 ===> log probability of sequence so far: -55.258688 
+English:  P(I, N) = 0.141949 ===> log probability of sequence so far: -55.627714 
+Italian:  P(I, N) = 0.062684 ===> log probability of sequence so far: -52.349355 
+
+
+This sentence is most probably in: Italian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sentence 4:
+Enter a sentence: Nicolas est allez chez Kevin
+Nicolas est allez chez Kevin
+
+Current Word: Nicolas
+
+BIGRAM: NI
+French:  P(N, I) = 0.021600 ===> log probability of sequence so far: -3.835062 
+English:  P(N, I) = 0.016562 ===> log probability of sequence so far: -4.100674 
+Italian:  P(N, I) = 0.027778 ===> log probability of sequence so far: -3.583519 
+
+BIGRAM: IC
+French:  P(I, C) = 0.008088 ===> log probability of sequence so far: -8.652407 
+English:  P(I, C) = 0.038842 ===> log probability of sequence so far: -7.348932 
+Italian:  P(I, C) = 0.040560 ===> log probability of sequence so far: -6.788480 
+
+BIGRAM: CO
+French:  P(C, O) = 0.080882 ===> log probability of sequence so far: -11.167166 
+English:  P(C, O) = 0.051422 ===> log probability of sequence so far: -10.316615 
+Italian:  P(C, O) = 0.131629 ===> log probability of sequence so far: -8.816250 
+
+BIGRAM: OL
+French:  P(O, L) = 0.010140 ===> log probability of sequence so far: -15.758394 
+English:  P(O, L) = 0.014503 ===> log probability of sequence so far: -14.550031 
+Italian:  P(O, L) = 0.071664 ===> log probability of sequence so far: -11.452018 
+
+BIGRAM: LA
+French:  P(L, A) = 0.083333 ===> log probability of sequence so far: -18.243300 
+English:  P(L, A) = 0.022031 ===> log probability of sequence so far: -18.365351 
+Italian:  P(L, A) = 0.095614 ===> log probability of sequence so far: -13.799453 
+
+BIGRAM: AS
+French:  P(A, S) = 0.023639 ===> log probability of sequence so far: -21.988159 
+English:  P(A, S) = 0.066195 ===> log probability of sequence so far: -21.080496 
+Italian:  P(A, S) = 0.025346 ===> log probability of sequence so far: -17.474603 
+
+Current Word: est
+
+BIGRAM: ES
+French:  P(E, S) = 0.147701 ===> log probability of sequence so far: -23.900723 
+English:  P(E, S) = 0.039683 ===> log probability of sequence so far: -24.307340 
+Italian:  P(E, S) = 0.050075 ===> log probability of sequence so far: -20.468841 
+
+BIGRAM: ST
+French:  P(S, T) = 0.056424 ===> log probability of sequence so far: -26.775591 
+English:  P(S, T) = 0.087230 ===> log probability of sequence so far: -26.746545 
+Italian:  P(S, T) = 0.063847 ===> log probability of sequence so far: -23.220100 
+
+Current Word: allez
+
+BIGRAM: AL
+French:  P(A, L) = 0.019341 ===> log probability of sequence so far: -30.721120 
+English:  P(A, L) = 0.041774 ===> log probability of sequence so far: -29.922031 
+Italian:  P(A, L) = 0.054531 ===> log probability of sequence so far: -26.129077 
+
+BIGRAM: LL
+French:  P(L, L) = 0.044872 ===> log probability of sequence so far: -33.825066 
+English:  P(L, L) = 0.043103 ===> log probability of sequence so far: -33.066183 
+Italian:  P(L, L) = 0.074561 ===> log probability of sequence so far: -28.725209 
+
+BIGRAM: LE
+French:  P(L, E) = 0.162088 ===> log probability of sequence so far: -35.644683 
+English:  P(L, E) = 0.087165 ===> log probability of sequence so far: -35.506139 
+Italian:  P(L, E) = 0.044737 ===> log probability of sequence so far: -31.832167 
+
+BIGRAM: EZ
+French:  P(E, Z) = 0.005172 ===> log probability of sequence so far: -40.909098 
+English:  P(E, Z) = 0.000611 ===> log probability of sequence so far: -42.907370 
+Italian:  P(E, Z) = 0.005232 ===> log probability of sequence so far: -37.085188 
+
+Current Word: chez
+
+BIGRAM: CH
+French:  P(C, H) = 0.034664 ===> log probability of sequence so far: -44.271156 
+English:  P(C, H) = 0.044858 ===> log probability of sequence so far: -46.011628 
+Italian:  P(C, H) = 0.080492 ===> log probability of sequence so far: -39.604781 
+
+BIGRAM: HE
+French:  P(H, E) = 0.024934 ===> log probability of sequence so far: -47.962663 
+English:  P(H, E) = 0.215373 ===> log probability of sequence so far: -47.547013 
+Italian:  P(H, E) = 0.087563 ===> log probability of sequence so far: -42.040172 
+
+BIGRAM: EZ
+French:  P(E, Z) = 0.005172 ===> log probability of sequence so far: -53.227079 
+English:  P(E, Z) = 0.000611 ===> log probability of sequence so far: -54.948244 
+Italian:  P(E, Z) = 0.005232 ===> log probability of sequence so far: -47.293193 
+
+Current Word: Kevin
+
+BIGRAM: KE
+French:  P(K, E) = 0.001479 ===> log probability of sequence so far: -59.743272 
+English:  P(K, E) = 0.048077 ===> log probability of sequence so far: -57.983197 
+Italian:  P(K, E) = 0.001479 ===> log probability of sequence so far: -53.809386 
+
+BIGRAM: EV
+French:  P(E, V) = 0.002874 ===> log probability of sequence so far: -65.595475 
+English:  P(E, V) = 0.020147 ===> log probability of sequence so far: -61.887921 
+Italian:  P(E, V) = 0.020179 ===> log probability of sequence so far: -57.712481 
+
+BIGRAM: VI
+French:  P(V, I) = 0.025362 ===> log probability of sequence so far: -69.269965 
+English:  P(V, I) = 0.003731 ===> log probability of sequence so far: -67.478908 
+Italian:  P(V, I) = 0.035227 ===> log probability of sequence so far: -61.058415 
+
+BIGRAM: IN
+French:  P(I, N) = 0.074265 ===> log probability of sequence so far: -71.870085 
+English:  P(I, N) = 0.141949 ===> log probability of sequence so far: -69.431194 
+Italian:  P(I, N) = 0.062684 ===> log probability of sequence so far: -63.828059 
+
+
+This sentence is most probably in: Italian
+
+
+
+
+Sentence 5:
+Enter a sentence: Derniere Phrase?
+Derniere Phrase?
+
+Current Word: Derniere
+
+BIGRAM: DE
+French:  P(D, E) = 0.234579 ===> log probability of sequence so far: -1.449961 
+English:  P(D, E) = 0.081655 ===> log probability of sequence so far: -2.505246 
+Italian:  P(D, E) = 0.063447 ===> log probability of sequence so far: -2.757551 
+
+BIGRAM: ER
+French:  P(E, R) = 0.091379 ===> log probability of sequence so far: -3.842697 
+English:  P(E, R) = 0.127595 ===> log probability of sequence so far: -4.564143 
+Italian:  P(E, R) = 0.132287 ===> log probability of sequence so far: -4.780332 
+
+BIGRAM: RN
+French:  P(R, N) = 0.002483 ===> log probability of sequence so far: -9.840806 
+English:  P(R, N) = 0.007353 ===> log probability of sequence so far: -9.476798 
+Italian:  P(R, N) = 0.005512 ===> log probability of sequence so far: -9.981194 
+
+BIGRAM: NI
+French:  P(N, I) = 0.021600 ===> log probability of sequence so far: -13.675868 
+English:  P(N, I) = 0.016562 ===> log probability of sequence so far: -13.577472 
+Italian:  P(N, I) = 0.027778 ===> log probability of sequence so far: -13.564713 
+
+BIGRAM: IE
+French:  P(I, E) = 0.069853 ===> log probability of sequence so far: -16.337231 
+English:  P(I, E) = 0.012006 ===> log probability of sequence so far: -17.999850 
+Italian:  P(I, E) = 0.028761 ===> log probability of sequence so far: -17.113446 
+
+BIGRAM: ER
+French:  P(E, R) = 0.091379 ===> log probability of sequence so far: -18.729968 
+English:  P(E, R) = 0.127595 ===> log probability of sequence so far: -20.058747 
+Italian:  P(E, R) = 0.132287 ===> log probability of sequence so far: -19.136228 
+
+BIGRAM: RE
+French:  P(R, E) = 0.153146 ===> log probability of sequence so far: -20.606333 
+English:  P(R, E) = 0.129902 ===> log probability of sequence so far: -22.099722 
+Italian:  P(R, E) = 0.092126 ===> log probability of sequence so far: -21.520826 
+
+Current Word: Phrase?
+
+BIGRAM: PH
+French:  P(P, H) = 0.015152 ===> log probability of sequence so far: -24.795988 
+English:  P(P, H) = 0.015403 ===> log probability of sequence so far: -26.272925 
+Italian:  P(P, H) = 0.001012 ===> log probability of sequence so far: -28.416509 
+
+BIGRAM: HR
+French:  P(H, R) = 0.001312 ===> log probability of sequence so far: -31.431934 
+English:  P(H, R) = 0.003805 ===> log probability of sequence so far: -31.844319 
+Italian:  P(H, R) = 0.001269 ===> log probability of sequence so far: -35.086007 
+
+BIGRAM: RA
+French:  P(R, A) = 0.078642 ===> log probability of sequence so far: -33.974779 
+English:  P(R, A) = 0.071078 ===> log probability of sequence so far: -34.488290 
+Italian:  P(R, A) = 0.134646 ===> log probability of sequence so far: -37.091115 
+
+BIGRAM: AS
+French:  P(A, S) = 0.023639 ===> log probability of sequence so far: -37.719638 
+English:  P(A, S) = 0.066195 ===> log probability of sequence so far: -37.203435 
+Italian:  P(A, S) = 0.025346 ===> log probability of sequence so far: -40.766265 
+
+BIGRAM: SE
+French:  P(S, E) = 0.075521 ===> log probability of sequence so far: -40.302984 
+English:  P(S, E) = 0.069245 ===> log probability of sequence so far: -39.873545 
+Italian:  P(S, E) = 0.123549 ===> log probability of sequence so far: -42.857383 
+
+
+This sentence is most probably in: English
